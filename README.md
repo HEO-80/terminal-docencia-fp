@@ -1,8 +1,16 @@
 <div align="center">
 
-<div align="center">
-  <img src="img/header.svg" alt="Terminal Docencia FP"/>
-</div>
+<img src="img/header.svg" alt="Terminal Docencia FP"/>
+
+```
+████████ ███████ ██████  ███    ███ ██ ███    ██  █████  ██
+   ██    ██      ██   ██ ████  ████ ██ ████   ██ ██   ██ ██
+   ██    █████   ██████  ██ ████ ██ ██ ██ ██  ██ ███████ ██
+   ██    ██      ██   ██ ██  ██  ██ ██ ██  ██ ██ ██   ██ ██
+   ██    ███████ ██   ██ ██      ██ ██ ██   ████ ██   ██ ███████
+
+   D O C E N C I A   F P  ·  PowerShell  ·  CMD  ·  Bash
+```
 
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
