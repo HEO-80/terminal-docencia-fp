@@ -1,0 +1,19 @@
+# Progreso de alumnos (se genera localmente)
+progreso.json
+
+# PowerShell
+*.ps1xml
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
