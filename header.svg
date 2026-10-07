@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800" height="280">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="280" rx="12" fill="#0d1117"/>
+
+  <!-- Border -->
+  <rect x="8" y="8" width="784" height="264" rx="8" fill="none" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Corner accents -->
+  <line x1="8" y1="30" x2="30" y2="8" stroke="#58a6ff" stroke-width="1.5"/>
+  <line x1="770" y1="8" x2="792" y2="30" stroke="#58a6ff" stroke-width="1.5"/>
+  <line x1="8" y1="250" x2="30" y2="272" stroke="#58a6ff" stroke-width="1.5"/>
+  <line x1="770" y1="272" x2="792" y2="250" stroke="#58a6ff" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="400" y="80" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="48" font-weight="700" fill="#58a6ff" letter-spacing="6">TERMINAL</text>
+
+  <!-- Subtitle -->
+  <text x="400" y="125" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="22" font-weight="700" fill="#e6edf3" letter-spacing="8">DOCENCIA FP</text>
+
+  <!-- Separator line -->
+  <line x1="200" y1="145" x2="600" y2="145" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Tech labels -->
+  <text x="400" y="175" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="14" fill="#7ee787" letter-spacing="4">PowerShell · CMD · Bash</text>
+
+  <!-- Description -->
+  <text x="400" y="210" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e" letter-spacing="2">SISTEMA DE ENTRENAMIENTO INTERACTIVO</text>
+
+  <!-- Bottom accent -->
+  <text x="400" y="245" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#484f58" letter-spacing="3">[ DOJO · TATAMI · RETO · FORJA · SANTUARIO ]</text>
+
+  <!-- Decorative dots -->
+  <circle cx="30" cy="25" r="4" fill="#f85149"/>
+  <circle cx="48" cy="25" r="4" fill="#d29922"/>
+  <circle cx="66" cy="25" r="4" fill="#7ee787"/>
+</svg>
