@@ -1,14 +1,13 @@
 <div align="center">
 
-<pre>
-████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗
-╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║
-   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║
-   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║
-   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
-   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
- D O C E N C I A   F P   ·   P o w e r S h e l l   ·   C M D   ·   B a s h
-</pre>
+ _____ _____ ____  __  __ ___ _   _    _    _
+|_   _| ____|  _ \|  \/  |_ _| \ | |  / \  | |
+  | | |  _| | |_) | |\/| || ||  \| | / _ \ | |
+  | | | |___|  _ <| |  | || || |\  |/ ___ \| |___
+  |_| |_____|_| \_\_|  |_|___|_| \_/_/   \_\_____|
+
+  D O C E N C I A   F P
+  PowerShell · CMD · Bash
 
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
